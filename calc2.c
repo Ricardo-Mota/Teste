@@ -1,3 +1,5 @@
+#include "calc2.h"
+
 float multiplicacao(float v1, float v2)
 {
 	return v1 * v2;
